@@ -1,3 +1,3 @@
-# Assignment: Bad Boss
+# Bad Boss: Database Migrations
 
-[See assignment in Alexa.](https://alexa.bitmaker.co/cohorts/67/assignments/2039/latest)
+Please see [assignment in Alexa](https://alexa.bitmaker.co/assignments/2039/latest).
